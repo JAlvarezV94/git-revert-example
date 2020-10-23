@@ -1,4 +1,4 @@
-# PRUEBA-REVERT
+# GIT-REVERT-EXAMPLE
 ## An example of how to revert a pushed merge
 
 Sometimes we have the situation when we already developed a feature in a branch, merged this brach with master and then, somebody or ourselve decides that these changes are not necesary in the master or we just doesn't want them. So, for this situation we can undo a merge from a branch, in the way we won't have these changes in the branch we don't want them, but still being in the branch where we developed them.
